@@ -15,5 +15,5 @@ El sistema de carpetas funciona de la siguiente manera:
 Para correr el proyecto, instale este sistema localmente y cambie la ruta en el script donde este fue guardado:
 
 ```
-path = r"C:\Users\ejlop\Downloads\Assesment\data\01_supply_optimization""
+path = r"C:\Users\ejlop\Downloads\Assesment\data\01_supply_optimization"
 ```
