@@ -2,7 +2,7 @@
 Este proyecto implementa un marco "end-to-end" de pronóstico de la demanda y optimización del inventario para múltiples tiendas-SKU.
 Combina el pronóstico de series temporales, la segmentación de productos y la optimización basada en costos para determinar las cantidades óptimas de reabastecimiento ante la incertidumbre de la demanda, maximizando la contribución neta y controlando el riesgo de inventario.
 
-Para ver con mas detalle la solución, vaya al archivo [Prueba-Tecnica-DS-ML Edgar López.pdf](https://github.com/ejlopezmor/Prueba-Tecnica-DS-ML)
+Para ver con mas detalle la solución, vaya al archivo [Prueba-Tecnica-DS-ML Edgar López.pdf](https://github.com/ejlopezmor/Prueba-Tecnica-DS-ML/blob/main/Prueba-Tecnica-DS-ML%20Edgar%20L%C3%B3pez.pdf)
 
 ## Carpetas
 El sistema de carpetas funciona de la siguiente manera:
